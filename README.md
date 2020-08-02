@@ -1,2 +1,0 @@
-# TicketSupport
-Ticket Support
